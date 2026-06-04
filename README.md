@@ -48,15 +48,6 @@ Two modalities are used independently:
 
 > **Download the dataset at:** [https://quangkhanh1311.github.io/E2VSchoolViolence/](https://quangkhanh1311.github.io/E2VSchoolViolence/)
 
-### Recording Conditions
-
-| Property | Detail |
-|---|---|
-| Locations | Classroom, Corridor |
-| Camera angles | Top, Center, Bottom |
-| Subjects | University students acting as participants |
-| Format | MP4 / MOV video clips |
-
 ### Directory Structure (after download)
 
 ```
@@ -254,7 +245,7 @@ NonViolence/Corridor/Top/Top9T11_NonViolence_001.mp4,NonViolence,Corridor,Top,To
 PreViolence/Classroom/Top/Pointing/Top8T10_Pointing_001.mp4,PreViolence,Classroom,Top,Pointing
 ```
 
-**Label column used by RGB models:** `class`
+**Label column:** `class`
 
 ---
 
@@ -266,7 +257,7 @@ Violence/Classroom/Bottom/Hitting/Bottom26T10_Hitting_001.mp4,Violence,Classroom
 PreViolence/Classroom/Top/Pointing/Top8T10_Pointing_001.mp4,PreViolence,Classroom,Top,Pointing
 ```
 
-**Label column used by SlowFast notebook:** `behavior`
+**Label column:** `behavior`
 
 ---
 
