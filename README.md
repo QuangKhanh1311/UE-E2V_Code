@@ -1,7 +1,7 @@
 # E2V — Early Violence Detection in School Environments
 
 Source code for the paper:  
-**"Early-to-Violence: Multi-Modal Recognition of Violence Escalation in School CCTV Footage"**
+**"UE-E2V: A Multi-Level Dataset for Early-to-Violence Recognition in School Environments"**
 
 ---
 
